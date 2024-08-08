@@ -108,7 +108,7 @@ main {
     color: #222;
 }
 
-main * {
+main * * {
     float: left;
 }
 
